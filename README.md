@@ -2,7 +2,7 @@
 
 An end-to-end Power BI solution that analyzes hospital wait times, patient flow, and case-type distribution to help healthcare administrators identify bottlenecks and make data-driven decisions on resource allocation.
 
-![Dashboard Banner](screenshots/summary-view.png)
+![Dashboard Banner](../healthcare-waiting-list-optimization/healthcare-waiting-list-optimization-dashboard/assets/screenshots/Summary_DB.png)
 
 ## 🎯 Overview
 
@@ -63,10 +63,10 @@ healthcare-waiting-list-optimization/
 ## 🖥️ Screenshots
 
 **Summary View**
-![Summary View](healthcare-waiting-list-optimization-dashboard/assets/screenshots/Summary_DB.png)
+![Summary View](../healthcare-waiting-list-optimization/healthcare-waiting-list-optimization-dashboard/assets/screenshots/Summary_DB.png)
 
 **Detailed View**
-![Detailed View](healthcare-waiting-list-optimization-dashboard/assets/screenshots/Details_View_DB.png)
+![Detailed View](../healthcare-waiting-list-optimization/healthcare-waiting-list-optimization-dashboard/assets/screenshots/Details_View_DB.png)
 
 ## 🚀 How to Use
 
