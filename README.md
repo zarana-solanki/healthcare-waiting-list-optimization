@@ -72,7 +72,7 @@ healthcare-waiting-list-optimization/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/healthcare-waiting-list-optimization.git
+   git clone https://github.com/zarana-solanki/healthcare-waiting-list-optimization.git
    ```
 2. Open `healthcare-waiting-list-optimization-dashboard/healthcare-waiting-list-optimization-dashboard.pbix` in **Power BI Desktop**.
 3. If prompted, update the data source path to point to the `Dataset/Data/` folder on your machine.
