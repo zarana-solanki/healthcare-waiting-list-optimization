@@ -63,10 +63,10 @@ healthcare-waiting-list-optimization/
 ## 🖥️ Screenshots
 
 **Summary View**
-![Summary View](../assets/screenshots/Summary_DB.png)
+![Summary View](healthcare-waiting-list-optimization-dashboard/assets/screenshots/Summary_DB.png)
 
 **Detailed View**
-![Detailed View](../assets/screenshots/Details_View_DB.png)
+![Detailed View](healthcare-waiting-list-optimization-dashboard/assets/screenshots/Details_View_DB.png)
 
 ## 🚀 How to Use
 
